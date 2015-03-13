@@ -1,0 +1,2 @@
+# apathyjs
+A framework that
